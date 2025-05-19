@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # carrera de buses
 while true; do
     for i in {1..20}; do
